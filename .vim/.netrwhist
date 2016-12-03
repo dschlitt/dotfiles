@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/danny/Projects/Taivara/id-mfa/app/services/interdigital_services/device_instance_service'
+let g:netrw_dirhist_2='/home/danny/Projects/Taivara/id-mfa/app/services/interdigital_services'
+let g:netrw_dirhist_3='/home/danny/Projects/Taivara/id-mfa/app/services/interdigital_services/device_service'
+let g:netrw_dirhist_4='/var/www/id-selfscan/config/tenant_configs'
+let g:netrw_dirhist_5='/var/www/id-selfscan/app/assets/javascripts/pages/account-lookup'
+let g:netrw_dirhist_6='/var/www/id-selfscan/app/controllers'
+let g:netrw_dirhist_7='/var/www/id-selfscan/config/settings'
+let g:netrw_dirhist_8='/home/danny/exercism/rust/gigasecond/tests'
+let g:netrw_dirhist_9='/home/danny/exercism/rust/hello-world/tests'
